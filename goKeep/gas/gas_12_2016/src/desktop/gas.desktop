@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=GasApplication
+Comment=Starts a go server for gas readings
+Exec=/home/raz/gas_current/src/desktop/gasStart.sh
+Icon=/home/raz/gas_current/src/desktop/gas.png
+Terminal=true;

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rss</title>
+    <style>
+      body {
+        background-color: #C0C0C0;
+      }
+      .manga{
+        width: 320px;
+        position: relative;
+        float: left;
+      }
+    </style>
+  </head>
+ 
+  <body>   
+    <br>
+
+    {{range $rss := .}}
+      <div class="manga">
+        <h2>{{ $rss.Title }}</h2>
+        <ul>
+          {{range $item := $rss.Items}}
+          <li> <a href="{{$item.Link}}">{{$item.Title}}</a> </li>
+          {{ end }}
+        </ul>   
+      </div>
+    {{ end }}
+    
+
+  </body>
+</html>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=MangaFox Rss Reader
+Comment=Reads Mangafox Rss
+Exec=/home/raz2/dartProjects_linux_1/keepProjects/dartProjects1/mangaRssRead/desktop/manga.sh
+Icon=/home/raz2/dartProjects_linux_1/keepProjects/dartProjects1/mangaRssRead/desktop/mfox.png
+Terminal=false;

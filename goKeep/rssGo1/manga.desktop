@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=MangaFox Rss Reader
+Comment=Reads Mangafox Rss
+Exec=/home/raz/IdeaProjects1/goKeep/rssGo1/manga.sh
+Icon=/home/raz/IdeaProjects1/goKeep/rssGo1/mfox.png
+Terminal=false;

@@ -1,0 +1,89 @@
+body {
+	background-color: #2B2B2B;
+}
+
+.bright1 {
+	background-color: #669999;
+}
+
+#input {
+	color: #cacc00;
+	font-size: 18px;
+	border-bottom: 1px solid #cacc00;
+}
+
+#update {
+	color: #cacc00;
+	font-size: 18px;
+	border-bottom: 1px solid #cacc00;
+}
+
+.mdl-textfield__label {
+	color: black;
+}
+
+#section1 {
+	border-right: 1px solid black;
+}
+
+#section2 {
+
+}
+input[type="button"] {
+	font-size: 17px;
+}
+
+#gas_table {
+	background-color: #2B2B2B;
+	font-size: 24px;
+}
+
+
+#gas_table td {
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+#gas_table tr:hover {
+	cursor: pointer;
+	background-color: white; 
+}
+
+tr:nth-child(even) {background-color: #D5D5AC;}
+tr:nth-child(odd) {background-color:#7CAAAA;}
+
+th {
+	font-size: 24px;
+	color: white;
+	background-color: #2B2B2B;
+
+}
+
+p {
+	font-size: 17px;
+}
+
+.invalid {
+	color: red;
+}
+
+.valid {
+	color: #347D48;
+}
+
+.visible {
+	visibility: visible;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+#ucMetersSpan {
+	visibility: hidden;
+}
+
+#ucPriceSpan {
+	visibility: hidden;
+}
