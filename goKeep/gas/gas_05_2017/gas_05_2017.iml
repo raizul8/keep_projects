@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GO_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/gas_05_2017Dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gas_05_2017Dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gas_05_2017Dart/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/gas_05_2017Dart/web/packages" />
+    </content>
+    <orderEntry type="jdk" jdkName="Go 1.8" jdkType="Go SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="GOPATH &lt;gas_05_2017&gt;" level="project" />
+  </component>
+</module>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Gas_05_2017
+Comment=Insert gas
+Exec=/home/raz/IdeaProjects1/goKeep/gas/gas_05_2017/startGas.sh
+Icon=/home/raz/IdeaProjects1/goKeep/gas/gas_05_2017/desktop/gas.png
+Terminal=true;

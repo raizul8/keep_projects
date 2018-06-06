@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gas_05_2017&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.8/gas_05_2017/src/github.com" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.8/global/src/github.com" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.8/global/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.8/gas_05_2017/src/github.com" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.8/global/src/github.com" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.8/global/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
