@@ -29,8 +29,12 @@
 <text x="600" y="290" style="fill:red;text-anchor:middle">181.5 lei</text>
 <text x="600" y="310" style="fill:green;text-anchor:middle">110m³</text>
 <text x="600" y="330" style="fill:green;text-anchor:middle">3865m³</text>
-<path d="M100 250 L100 140 L200 130 L300 144 L400 177 L500 227 L600 227 L600 250 Z" style="fill:red;opacity:0.5"/>
-<path d="M100 250L100 179 L200 173 L300 182 L400 203 L500 236 L600 235 L600 250 Z" style="fill:green;opacity:0.5"/>
+<text x="700" y="270" style="text-anchor:middle">July</text>
+<text x="700" y="290" style="fill:red;text-anchor:middle">184.8 lei</text>
+<text x="700" y="310" style="fill:green;text-anchor:middle">112m³</text>
+<text x="700" y="330" style="fill:green;text-anchor:middle">3977m³</text>
+<path d="M100 250 L100 140 L200 130 L300 144 L400 177 L500 227 L600 227 L700 226 L700 250 Z" style="fill:red;opacity:0.5"/>
+<path d="M100 250L100 179 L200 173 L300 182 L400 203 L500 236 L600 235 L700 235 L700 250 Z" style="fill:green;opacity:0.5"/>
 <text x="10" y="450" style="font-size:35px;">2017</text>
 <text x="100" y="520" style="text-anchor:middle">January</text>
 <text x="100" y="540" style="fill:red;text-anchor:middle">1035.3 lei</text>
