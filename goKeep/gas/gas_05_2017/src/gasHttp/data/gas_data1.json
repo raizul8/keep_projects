@@ -397,5 +397,19 @@
     "consumed": 95,
     "cPrice": 1.65,
     "total": 156.75
+  },
+  {
+    "date": "2018-09-15T10:13:00.000Z",
+    "cMeters": 4171,
+    "consumed": 99,
+    "cPrice": 1.65,
+    "total": 163.35
+  },
+  {
+    "date": "2018-10-16T10:14:00.000Z",
+    "cMeters": 4248,
+    "consumed": 177,
+    "cPrice": 1.65,
+    "total": 292.05
   }
 ]
