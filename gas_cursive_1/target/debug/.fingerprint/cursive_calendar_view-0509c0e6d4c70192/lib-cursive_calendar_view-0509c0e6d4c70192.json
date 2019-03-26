@@ -1,0 +1,1 @@
+{"rustc":10820957980210495214,"features":"[\"cursive\", \"default\", \"ncurses-backend\"]","target":16713808732342598971,"profile":7990393541957723157,"path":6324878996703248675,"deps":[["chrono v0.3.0","chrono",14547439184734315498],["cursive v0.7.5","cursive",6449938611432983301]],"local":[{"Precalculated":"0.2.2"}],"rustflags":[],"edition":"Edition2015"}

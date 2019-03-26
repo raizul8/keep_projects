@@ -1,0 +1,14 @@
+/home/raz/code_projects/rust_projects/rust_projects1/gas_rust_cursive_1/target/rls/debug/deps/ncurses-63438f8e13cd2696.rmeta: /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/lib.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/ll.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/constants.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/ll.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/wrapper.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/ll.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/wrapper.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/constants.rs
+
+/home/raz/code_projects/rust_projects/rust_projects1/gas_rust_cursive_1/target/rls/debug/deps/ncurses-63438f8e13cd2696.d: /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/lib.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/ll.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/constants.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/ll.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/wrapper.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/ll.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/wrapper.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/constants.rs
+
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/lib.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/ll.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/constants.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/mod.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/ll.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/panel/wrapper.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/mod.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/ll.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/wrapper.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.94.0/src/menu/constants.rs:
