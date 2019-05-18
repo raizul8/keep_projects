@@ -446,5 +446,19 @@
     "consumed": 346,
     "cPrice": 1.723,
     "total": 596.158
+  },
+  {
+    "date": "2019-04-15T09:47:22.023Z",
+    "cMeters": 6748,
+    "consumed": 252,
+    "cPrice": 1.723,
+    "total": 434.196
+  },
+  {
+    "date": "2019-05-15T07:31:13.798Z",
+    "cMeters": 6934,
+    "consumed": 186,
+    "cPrice": 1.723,
+    "total": 320.478
   }
 ]
