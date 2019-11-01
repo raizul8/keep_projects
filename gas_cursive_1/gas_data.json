@@ -480,6 +480,20 @@
     "cMeters": 7188,
     "consumed": 83,
     "cPrice": 1.723,
-    "total": 143.00900000000001
+    "total": 143.009
+  },
+  {
+    "date": "2019-09-15T08:56:06.461Z",
+    "cMeters": 7268,
+    "consumed": 80,
+    "cPrice": 1.723,
+    "total": 137.84
+  },
+  {
+    "date": "2019-10-15T06:04:35.288Z",
+    "cMeters": 7413,
+    "consumed": 145,
+    "cPrice": 1.723,
+    "total": 249.835
   }
 ]
