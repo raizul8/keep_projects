@@ -502,5 +502,12 @@
     "consumed": 203,
     "cPrice": 1.723,
     "total": 349.769
+  },
+  {
+    "date": "2019-12-16T14:07:58.076Z",
+    "cMeters": 7999,
+    "consumed": 383,
+    "cPrice": 1.723,
+    "total": 659.909
   }
 ]
