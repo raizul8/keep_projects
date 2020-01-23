@@ -1,0 +1,12 @@
+/home/raz/code_projects/keep_projects/hello_rust2_module_example/target/rls/debug/deps/primal_sieve-d68ffaf3f6cc942d.rmeta: /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/lib.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/primes.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/presieve.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/wheel30.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/wheel210.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/sieve.rs
+
+/home/raz/code_projects/keep_projects/hello_rust2_module_example/target/rls/debug/deps/primal_sieve-d68ffaf3f6cc942d.d: /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/lib.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/primes.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/presieve.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/mod.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/wheel30.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/wheel210.rs /home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/sieve.rs
+
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/lib.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/mod.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/primes.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/streaming/presieve.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/mod.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/wheel30.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/wheel/wheel210.rs:
+/home/raz/.cargo/registry/src/github.com-1ecc6299db9ec823/primal-sieve-0.2.9/src/sieve.rs:

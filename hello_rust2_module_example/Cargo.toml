@@ -1,0 +1,9 @@
+[package]
+name = "hello_rust2_module_example"
+version = "0.1.0"
+authors = ["raizul8 <bogarazvan2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.1"
+primal = "0.2.3"
