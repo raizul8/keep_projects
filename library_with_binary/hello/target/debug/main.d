@@ -1,0 +1,1 @@
+/home/raz/code_projects/keep_projects/library_with_binary/hello/target/debug/main: /home/raz/code_projects/keep_projects/library_with_binary/hello/src/bin/main.rs /home/raz/code_projects/keep_projects/library_with_binary/hello/src/lib.rs
