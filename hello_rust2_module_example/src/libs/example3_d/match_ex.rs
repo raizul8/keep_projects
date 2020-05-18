@@ -1,4 +1,5 @@
-pub fn match_fn1() {
+/// This is match_fn1
+pub fn match_fn1(_a: i32) {
     let v = vec!["one", "two", "three", "four", "five"];
 
     for (num, word) in v.iter().enumerate() {
