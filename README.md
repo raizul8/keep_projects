@@ -1,2 +1,2 @@
-code_projects: keep_projects ........
+code_projects: keep_projects .
 _______________
